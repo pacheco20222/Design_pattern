@@ -13,19 +13,27 @@ Este repositorio contiene una guía técnica y práctica de los 23 patrones de d
 
 | Categoría | Patrón | Documentación | C# | Python |
 | :--- | :--- | :---: | :---: | :---: |
-| **Creacionales** | Factory Method | [Ver Detalle](./Creational/Factory_Method/) | [💻](./Creational/Factory_Method/factory.cs) | [🐍](./Creational/Factory_Method/factory.py) |
-| | Abstract Factory | [Ver Detalle](./Creational/Abstract_factory/) | [💻](./Creational/Abstract_factory/abstract.cs) | [🐍](./Creational/Abstract_factory/abstract.py) |
+| **Creacionales** | Abstract Factory | [Ver Detalle](./Creational/Abstract_factory/) | [💻](./Creational/Abstract_factory/abstract.cs) | [🐍](./Creational/Abstract_factory/abstract.py) |
 | | Builder | [Ver Detalle](./Creational/Builder/) | [💻](./Creational/Builder/builder.cs) | [🐍](./Creational/Builder/builder.py) |
+| | Factory Method | [Ver Detalle](./Creational/Factory_Method/) | [💻](./Creational/Factory_Method/factory.cs) | [🐍](./Creational/Factory_Method/factory.py) |
+| | Prototype | [Ver Detalle](./Creational/Prototype/) | [💻](./Creational/Prototype/prototype.cs) | [🐍](./Creational/Prototype/prototype.py) |
+| | Singleton | [Ver Detalle](./Creational/Singleton/) | [💻](./Creational/Singleton/singleton.cs) | [🐍](./Creational/Singleton/singleton.py) |
 | **Estructurales** | Adapter | [Ver Detalle](./Structural/Adapter/) | [💻](./Structural/Adapter/adapter.cs) | [🐍](./Structural/Adapter/adapter.py) |
+| | Bridge | [Ver Detalle](./Structural/Bridge/) | [💻](./Structural/Bridge/bridge.cs) | [🐍](./Structural/Bridge/bridge.py) |
+| | Composite | [Ver Detalle](./Structural/Composite/) | [💻](./Structural/Composite/composite.cs) | [🐍](./Structural/Composite/composite.py) |
 | | Decorator | [Ver Detalle](./Structural/Decorator/) | [💻](./Structural/Decorator/decorator.cs) | [🐍](./Structural/Decorator/decorator.py) |
 | | Facade | [Ver Detalle](./Structural/Facade/) | [💻](./Structural/Facade/facade.cs) | [🐍](./Structural/Facade/facade.py) |
+| | Flyweight | [Ver Detalle](./Structural/Flyweight/) | [💻](./Structural/Flyweight/flyweight.cs) | [🐍](./Structural/Flyweight/flyweight.py) |
 | | Proxy | [Ver Detalle](./Structural/Proxy/) | [💻](./Structural/Proxy/proxy.cs) | [🐍](./Structural/Proxy/proxy.py) |
 | **Comportamiento** | Chain of Responsibility | [Ver Detalle](./Behavioral/Chain_Responsability/) | [💻](./Behavioral/Chain_Responsability/chain.cs) | [🐍](./Behavioral/Chain_Responsability/chain.py) |
-| | Strategy | [Ver Detalle](./Behavioral/Strategy/) | [💻](./Behavioral/Strategy/strategy.cs) | [🐍](./Behavioral/Strategy/strategy.py) |
+| | Command | [Ver Detalle](./Behavioral/Command/) | [💻](./Behavioral/Command/command.cs) | [🐍](./Behavioral/Command/command.py) |
+| | Interpreter | [Ver Detalle](./Behavioral/Interpreter/) | [💻](./Behavioral/Interpreter/interpreter.cs) | [🐍](./Behavioral/Interpreter/interpreter.py) |
+| | Mediator | [Ver Detalle](./Behavioral/Mediator/) | [💻](./Behavioral/Mediator/mediator.cs) | [🐍](./Behavioral/Mediator/mediator.py) |
 | | Observer | [Ver Detalle](./Behavioral/Observer/) | [💻](./Behavioral/Observer/observer.cs) | [🐍](./Behavioral/Observer/observer.py) |
+| | Strategy | [Ver Detalle](./Behavioral/Strategy/) | [💻](./Behavioral/Strategy/strategy.cs) | [🐍](./Behavioral/Strategy/strategy.py) |
 
 ---
 
 ## 👥 Colaboradores
 * **Jose Pacheco/pacheco20222** - Implementación de los primeros 10 patrones y estructura base.
-* **Team members** - (Pending)
+* **Carlos Cambranis (Colaborador)** - Implementación de patrones (Command, Interpreter, Mediator, Prototype, Singleton, Bridge, Composite, Flyweight).
