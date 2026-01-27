@@ -28,12 +28,17 @@ Este repositorio contiene una guía técnica y práctica de los 23 patrones de d
 | **Comportamiento** | Chain of Responsibility | [Ver Detalle](./Behavioral/Chain_Responsability/) | [💻](./Behavioral/Chain_Responsability/chain.cs) | [🐍](./Behavioral/Chain_Responsability/chain.py) |
 | | Command | [Ver Detalle](./Behavioral/Command/) | [💻](./Behavioral/Command/command.cs) | [🐍](./Behavioral/Command/command.py) |
 | | Interpreter | [Ver Detalle](./Behavioral/Interpreter/) | [💻](./Behavioral/Interpreter/interpreter.cs) | [🐍](./Behavioral/Interpreter/interpreter.py) |
+| | Iterator | [Ver Detalle](./Behavioral/Iterator/) | [💻](./Behavioral/Iterator/iterator.cs) | [🐍](./Behavioral/Iterator/iterator.py) |
 | | Mediator | [Ver Detalle](./Behavioral/Mediator/) | [💻](./Behavioral/Mediator/mediator.cs) | [🐍](./Behavioral/Mediator/mediator.py) |
+| | Memento | [Ver Detalle](./Behavioral/Memento/) | [💻](./Behavioral/Memento/memento.cs) | [🐍](./Behavioral/Memento/memento.py) |
 | | Observer | [Ver Detalle](./Behavioral/Observer/) | [💻](./Behavioral/Observer/observer.cs) | [🐍](./Behavioral/Observer/observer.py) |
+| | State | [Ver Detalle](./Behavioral/State/) | [💻](./Behavioral/State/state.cs) | [🐍](./Behavioral/State/state.py) |
 | | Strategy | [Ver Detalle](./Behavioral/Strategy/) | [💻](./Behavioral/Strategy/strategy.cs) | [🐍](./Behavioral/Strategy/strategy.py) |
+| | Template Method | [Ver Detalle](./Behavioral/Template_Method/) | [💻](./Behavioral/Template_Method/template.cs) | [🐍](./Behavioral/Template_Method/template.py) |
 
 ---
 
 ## 👥 Colaboradores
 * **Jose Pacheco/pacheco20222** - Implementación de los primeros 10 patrones y estructura base.
 * **Carlos Cambranis (Colaborador)** - Implementación de patrones (Command, Interpreter, Mediator, Prototype, Singleton, Bridge, Composite, Flyweight).
+* **Josie Dolman (Colaborador)** - Implementación de patrones (Iterator, Memento, State, Template Method).
