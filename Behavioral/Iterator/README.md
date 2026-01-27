@@ -11,4 +11,4 @@
 
 ## Código de Referencia
 * [Implementación en C#](./iterator.cs)
-* [Implementación en Python](./itertor.py)
+* [Implementación en Python](./iterator.py)
