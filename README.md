@@ -44,3 +44,4 @@ Este repositorio contiene una guía técnica y práctica de los 23 patrones de d
 * **Carlos Cambranis (Colaborador)** - Implementación de patrones (Command, Interpreter, Mediator, Prototype, Singleton, Bridge, Composite, Flyweight).
 * **Josie Dolman (Colaborador)** - Implementación de patrones (Iterator, Memento, State, Template Method).
 * **Rodrigo Sanchez (Colaborador)** - Implementación del patrón Visitor.
+* **Arturo Gonzalo (Colaborador)** - Implementación de UMLs
