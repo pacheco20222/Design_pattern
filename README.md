@@ -7,6 +7,9 @@ Este repositorio contiene una guía técnica y práctica de los 23 patrones de d
 * **Control de Versiones:** GitHub con flujo de trabajo basado en ramas (GitHub Flow).
 * **Documentación:** Markdown y diagramas UML.
 
+## Link de los diagramas UML
+https://www.canva.com/design/DAG_qQcToDA/QDWmKnIC8MWihb4i3UkXvg/edit?utm_content=DAG_qQcToDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ---
 
 ## 📚 Índice de Patrones
