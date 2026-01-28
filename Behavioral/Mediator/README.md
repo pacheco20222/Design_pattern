@@ -14,3 +14,5 @@ The Mediator design pattern defines an object that encapsulates how a set of obj
 
 ## Example
 In this example, we have a chat room where users communicate through a mediator.
+
+UML link: https://www.canva.com/design/DAG_qQcToDA/QDWmKnIC8MWihb4i3UkXvg/edit?utm_content=DAG_qQcToDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

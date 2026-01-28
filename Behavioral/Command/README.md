@@ -16,3 +16,5 @@ The Command design pattern encapsulates a request as an object, thereby allowing
 
 ## Example
 In this example, we have a simple remote control that can turn a light on and off using command objects.
+
+UML link: https://www.canva.com/design/DAG_qQcToDA/QDWmKnIC8MWihb4i3UkXvg/edit?utm_content=DAG_qQcToDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
