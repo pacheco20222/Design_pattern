@@ -35,6 +35,7 @@ Este repositorio contiene una guía técnica y práctica de los 23 patrones de d
 | | State | [Ver Detalle](./Behavioral/State/) | [💻](./Behavioral/State/state.cs) | [🐍](./Behavioral/State/state.py) |
 | | Strategy | [Ver Detalle](./Behavioral/Strategy/) | [💻](./Behavioral/Strategy/strategy.cs) | [🐍](./Behavioral/Strategy/strategy.py) |
 | | Template Method | [Ver Detalle](./Behavioral/Template_Method/) | [💻](./Behavioral/Template_Method/template.cs) | [🐍](./Behavioral/Template_Method/template.py) |
+| | Visitor | [Ver Detalle](./Behavioral/Visitor/) | [💻](./Behavioral/Visitor/visitor.cs) | [🐍](./Behavioral/Visitor/visitor.py) |
 
 ---
 
@@ -42,3 +43,4 @@ Este repositorio contiene una guía técnica y práctica de los 23 patrones de d
 * **Jose Pacheco/pacheco20222** - Implementación de los primeros 10 patrones y estructura base.
 * **Carlos Cambranis (Colaborador)** - Implementación de patrones (Command, Interpreter, Mediator, Prototype, Singleton, Bridge, Composite, Flyweight).
 * **Josie Dolman (Colaborador)** - Implementación de patrones (Iterator, Memento, State, Template Method).
+* **Rodrigo Sanchez (Colaborador)** - Implementación del patrón Visitor.
